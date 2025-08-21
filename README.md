@@ -1,29 +1,43 @@
-# Paper: 
-- Measuring water holding capacity in pork meat images using deep learning
-  - Repo:  https://github.com/viniciusCSreis/ufu-tcc
-  - linK: https://www.sciencedirect.com/science/article/pii/S0309174023000657
+# Research Paper
 
-# Golang
+- **Title:** Measuring water-holding capacity in pork meat images using deep learning
+  - **Repository:** [https://github.com/viniciusCSreis/ufu-tcc](https://github.com/viniciusCSreis/ufu-tcc)
+  - **Publication:** [ScienceDirect Link](https://www.sciencedirect.com/science/article/pii/S0309174023000657)
 
-- [Kubernets Operator Pattern Project](https://github.com/viniciusCSreis/poc-operator-sdk)
-- [Chaos mesh ](https://github.com/viniciusCSreis/golang-chaos-mesh-poc)
+---
 
-# Java / Kotlin
+# Go (Golang)
 
-[GraphQL Service in Kotlin:](https://github.com/viniciusCSreis/kotlin-graphql)
-[Spring Boot using kotlin](https://github.com/viniciusCSreis/spring-kotlin-demo)
-[Spring Boot using Java](https://github.com/viniciusCSreis/xy_simpleSpringBootCrud)
-[Spring Boot How to auto generate rest doc](https://github.com/viniciusCSreis/xy_spring_boot_auto_rest_docs)
+- [Kubernetes Operator Pattern Project](https://github.com/viniciusCSreis/poc-operator-sdk)
+- [Chaos Mesh Proof of Concept](https://github.com/viniciusCSreis/golang-chaos-mesh-poc)
 
-# Github action
+---
 
-[Generate changelog](https://github.com/viniciusCSreis/action-changelog-generator)
-[Merge with comment](https://github.com/viniciusCSreis/action-fast-merge)
+# Java & Kotlin
 
-# University projects:
+- [GraphQL Service in Kotlin](https://github.com/viniciusCSreis/kotlin-graphql)
+- [Spring Boot with Kotlin Demo](https://github.com/viniciusCSreis/spring-kotlin-demo)
+- [Spring Boot with Java CRUD Example](https://github.com/viniciusCSreis/xy_simpleSpringBootCrud)
+- [Spring Boot: Auto-generating REST Documentation](https://github.com/viniciusCSreis/xy_spring_boot_auto_rest_docs)
 
-[Brute force attack to decript files in golang](https://github.com/viniciusCSreis/ufu-openssl-dicionary)
-[Distrubuited System challenger in javascript](https://github.com/JhonnyBn/TheLastMage)
-[Game using libgdx (java)](https://github.com/viniciusCSreis/poo2_trab)
-[multilayer neural network from scratch using javascript]
-[rede-neural-multicamada](https://github.com/viniciusCSreis/rede-neural-multicamada)
+---
+
+# GitHub Actions
+
+- [Changelog Generator](https://github.com/viniciusCSreis/action-changelog-generator)
+- [Merge with Comment](https://github.com/viniciusCSreis/action-fast-merge)
+
+---
+
+# University Projects
+
+- [Brute-force Attack to Decrypt Files in Go](https://github.com/viniciusCSreis/ufu-openssl-dicionary)
+- [Distributed Systems Challenge in JavaScript](https://github.com/JhonnyBn/TheLastMage)
+- [Game using LibGDX (Java)](https://github.com/viniciusCSreis/poo2_trab)
+- [Multilayer Neural Network from Scratch in JavaScript](https://github.com/viniciusCSreis/rede-neural-multicamada)
+
+---
+
+# Open Source Contributions
+
+- [Ritchie CLI Formulas](https://github.com/viniciusCSreis/vinicius-ritchie-formulas?tab=readme-ov-file)
