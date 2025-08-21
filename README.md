@@ -41,4 +41,4 @@
 
 # Open Source Contributions
 
-- [Ritchie CLI Formulas](https://github.com/viniciusCSreis/vinicius-ritchie-formulas?tab=readme-ov-file)
+- [Ritchie CLI (Archived) ](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/ZupIT/ritchie-cli)
