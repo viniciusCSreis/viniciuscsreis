@@ -35,6 +35,7 @@
 - [Distributed Systems Challenge in JavaScript](https://github.com/JhonnyBn/TheLastMage)
 - [Game using LibGDX (Java)](https://github.com/viniciusCSreis/poo2_trab)
 - [Multilayer Neural Network from Scratch in JavaScript](https://github.com/viniciusCSreis/rede-neural-multicamada)
+- [Mobile app using flutter](https://github.com/viniciusCSreis/ufu-my-money)
 
 ---
 
